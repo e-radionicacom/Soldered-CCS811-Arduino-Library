@@ -1,8 +1,8 @@
 /**
  **************************************************
  *
- * @file        Generic-easyC-SOLDERED.h
- * @brief       Header file for sensor specific code.
+ * @file        CCS811-SOLDERED.h
+ * @brief       Header file for CCS811 Environmental sensor
  *
  *
  * @copyright GNU General Public License v3.0
@@ -14,17 +14,18 @@
 
 #include "Arduino.h"
 #include "libs/Generic-easyC/easyC.h"
+#include "libs/SparkFun_CCS811_Arduino_Library/src/SparkFunCCS811.h"
 
-class Sensor : public EasyC
+class CCS_811 : public CCS811
 {
   public:
-    Sensor(int _pin);
+    CCS_811() : CCS811(0x5A)
+    {
 
+    }
   protected:
-    void initializeNative();
 
   private:
-    int pin;
 };
 
 #endif
