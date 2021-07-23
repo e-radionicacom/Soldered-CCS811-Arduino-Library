@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['begin_27',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]]
+  ['appvalid_79',['appValid',['../class_c_c_s811.html#a8eb279e3af12b6c6a39bcd113c3b78e5',1,'CCS811']]]
 ];

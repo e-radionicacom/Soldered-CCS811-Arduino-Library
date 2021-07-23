@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['readdata_30',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readregister_31',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['dataavailable_87',['dataAvailable',['../class_c_c_s811.html#ae853f54ae9a235080af468301e47ac37',1,'CCS811']]],
+  ['disableinterrupts_88',['disableInterrupts',['../class_c_c_s811.html#a0b8d67aede008a745b626030ed78aded',1,'CCS811']]]
 ];

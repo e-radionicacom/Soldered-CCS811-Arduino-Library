@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['sendaddress_17',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_18',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_19',['Sensor',['../class_sensor.html',1,'Sensor'],['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor::Sensor()']]]
+  ['multireadregister_39',['multiReadRegister',['../class_c_c_s811_core.html#a14fe06bc2d4858c9da72fb8708eec25a',1,'CCS811Core']]],
+  ['multiwriteregister_40',['multiWriteRegister',['../class_c_c_s811_core.html#a2542fbf4a0d758341f0f3732a8188000',1,'CCS811Core']]]
 ];

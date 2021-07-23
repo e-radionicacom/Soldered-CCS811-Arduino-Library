@@ -6,6 +6,8 @@ var annotated_dup =
     [ "About Soldered", "index.html#autotoc_md4", null ],
     [ "Original source", "index.html#autotoc_md5", null ],
     [ "Open-source license", "index.html#autotoc_md6", null ],
-    [ "EasyC", "class_easy_c.html", "class_easy_c" ],
-    [ "Sensor", "class_sensor.html", "class_sensor" ]
+    [ "CCS811", "class_c_c_s811.html", "class_c_c_s811" ],
+    [ "CCS811Core", "class_c_c_s811_core.html", "class_c_c_s811_core" ],
+    [ "CCS_811", "class_c_c_s__811.html", "class_c_c_s__811" ],
+    [ "EasyC", "class_easy_c.html", "class_easy_c" ]
 ];
