@@ -21,10 +21,9 @@ class CCS_811 : public CCS811
   public:
     CCS_811() : CCS811(0x5A)
     {
-
     }
-  protected:
 
+  protected:
   private:
 };
 
