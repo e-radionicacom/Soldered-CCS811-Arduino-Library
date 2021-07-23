@@ -9,8 +9,8 @@
  * @authors     @ soldered.com
  ***************************************************/
 
-#ifndef __CCS_811__
-#define __CCS_811__
+#ifndef __CCS811_SOLDERED__
+#define __CCS811_SOLDERED__
 
 #include "Arduino.h"
 #include "libs/Generic-easyC/easyC.h"
