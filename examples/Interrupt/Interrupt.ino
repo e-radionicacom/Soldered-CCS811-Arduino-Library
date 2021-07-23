@@ -15,7 +15,7 @@
 #define PIN_NOT_WAKE 5
 #define PIN_NOT_INT 6
 
-CCS811 myCCS811;
+CCS_811 myCCS811;
 
 //Global sensor object
 //---------------------------------------------------------------
