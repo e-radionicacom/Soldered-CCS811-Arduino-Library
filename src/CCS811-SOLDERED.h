@@ -9,8 +9,8 @@
  * @authors     @ soldered.com
  ***************************************************/
 
-#ifndef __SENSOR__
-#define __SENSOR__
+#ifndef __CCS_811__
+#define __CCS_811__
 
 #include "Arduino.h"
 #include "libs/Generic-easyC/easyC.h"
