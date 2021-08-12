@@ -8,6 +8,5 @@ var annotated_dup =
     [ "Open-source license", "index.html#autotoc_md6", null ],
     [ "CCS811", "class_c_c_s811.html", "class_c_c_s811" ],
     [ "CCS811Core", "class_c_c_s811_core.html", "class_c_c_s811_core" ],
-    [ "CCS_811", "class_c_c_s__811.html", "class_c_c_s__811" ],
-    [ "EasyC", "class_easy_c.html", "class_easy_c" ]
+    [ "CCS_811", "class_c_c_s__811.html", "class_c_c_s__811" ]
 ];

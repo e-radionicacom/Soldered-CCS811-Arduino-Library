@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['writeregister_111',['writeRegister',['../class_c_c_s811_core.html#a25802645d90a79f7a9829c158ef6e051',1,'CCS811Core']]]
+  ['_7eccs811core_92',['~CCS811Core',['../class_c_c_s811_core.html#a7fa26dcc8613a11054d6fb27643f0923',1,'CCS811Core']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['co2_116',['CO2',['../class_c_c_s811.html#a2e189962b50fbbbd284feb8990ce24f8',1,'CCS811']]]
+  ['ntccounts_96',['ntcCounts',['../class_c_c_s811.html#acce4933bb513c923f520b259af09bbf7',1,'CCS811']]]
 ];

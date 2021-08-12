@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['readalgorithmresults_100',['readAlgorithmResults',['../class_c_c_s811.html#a901cef3305d3ac673b6aefc8645bd893',1,'CCS811']]],
-  ['readdata_101',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readntc_102',['readNTC',['../class_c_c_s811.html#a963ef30825de67795168dcafbb64452e',1,'CCS811']]],
-  ['readregister_103',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC::readRegister()'],['../class_c_c_s811_core.html#aa68e5fd0ab35e96d2ec18b3ddc05931c',1,'CCS811Core::readRegister()']]]
+  ['setbaseline_86',['setBaseline',['../class_c_c_s811.html#a9963d5d9eecbc71c5496ad28440f73b4',1,'CCS811']]],
+  ['setdrivemode_87',['setDriveMode',['../class_c_c_s811.html#a8b044f9f69d9e12f412974ba278d084b',1,'CCS811']]],
+  ['setenvironmentaldata_88',['setEnvironmentalData',['../class_c_c_s811.html#aba76ab0eac8a3e6888166744e4ca454a',1,'CCS811']]],
+  ['setrefresistance_89',['setRefResistance',['../class_c_c_s811.html#a4270163dc8360548a0219ddc3b095ee1',1,'CCS811']]],
+  ['statusstring_90',['statusString',['../class_c_c_s811.html#a546ddde57dee0288b28cac44c1dcf684',1,'CCS811']]]
 ];
