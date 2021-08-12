@@ -13,7 +13,6 @@
 #define __CCS811_SOLDERED__
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
 #include "libs/SparkFun_CCS811_Arduino_Library/src/SparkFunCCS811.h"
 
 class CCS_811 : public CCS811
