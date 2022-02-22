@@ -6,7 +6,6 @@
  *              It shows how to use our API wrapper to take some basic readings
  *
  *
- * @authors     @ soldered.com
  * @copyright   [MIT License](http://opensource.org/licenses/MIT)
  *              www.Solde.red/333009
  ***************************************************/
@@ -14,13 +13,13 @@
 #include "CCS811-SOLDERED.h"
 #include "Wire.h"
 
-CCS_811 ccs811Sensor;
+CCS_811 ccs811Sensor;   //Initialize object
 
 void setup()
 {
-    Wire.begin();
-    Serial.begin(115200);
-    ccs811Sensor.begin();
+    Wire.begin();       //Begin I2C communication, it will not work without this command
+    Serial.begin(115200);   //Begin serial communication with PC using baud rate of 115200
+    ccs811Sensor.begin();   //Begin communication with sensor
     Serial.println("CCS811 Sensor Basic Example");
 }
 
