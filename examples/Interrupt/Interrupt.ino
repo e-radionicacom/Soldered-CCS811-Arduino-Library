@@ -4,7 +4,6 @@
  * @file        Interrupt.ino
  * @brief       This example shows use of interrupts in CCS811 sensors
  *
- * @authors     @ soldered.com
  * @copyright   [MIT License](http://opensource.org/licenses/MIT)
  *              
  *              www.Solde.red/333009
@@ -22,11 +21,11 @@ CCS_811 myCCS811;
 void setup()
 {
   //Start the serial
-  Serial.begin(115200);
+  Serial.begin(115200); //Start serial communication with PC using baud rate of 115 200
   Serial.println();
   Serial.println("...");
 
-  Wire.begin();
+  Wire.begin(); //Begin I2C communication, I2C bus will not work without this
 
   //This begins the CCS811 sensor and prints error status of .beginWithStatus()
   CCS_811::CCS811_Status_e returnCode = myCCS811.beginWithStatus();
@@ -64,11 +63,11 @@ void loop()
     myCCS811.readAlgorithmResults(); //Calling this function updates the global tVOC and CO2 variables
 
     Serial.print("CO2[");
-    Serial.print(myCCS811.getCO2());
+    Serial.print(myCCS811.getCO2());  //Get CO2 value from sensor
     Serial.print("] tVOC[");
-    Serial.print(myCCS811.getTVOC());
+    Serial.print(myCCS811.getTVOC()); //Get tVOC value from sensor
     Serial.print("] millis[");
-    Serial.print(millis());
+    Serial.print(millis()); //Print timestamp
     Serial.print("]");
     Serial.println();
 
