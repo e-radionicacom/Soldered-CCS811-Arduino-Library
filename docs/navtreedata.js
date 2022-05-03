@@ -27,8 +27,8 @@ var NAVTREE =
   [ "Soldered-CCS811-Arduino-Library", "index.html", [
     [ "CCS811 Sensor Arduino library", "index.html", null ],
     [ "SparkFun License Information", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html", [
-      [ "Hardware", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md7", null ],
-      [ "Code", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md8", null ]
+      [ "Hardware", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md8", null ],
+      [ "Code", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md9", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
