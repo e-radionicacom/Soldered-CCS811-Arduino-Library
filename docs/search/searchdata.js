@@ -7,7 +7,7 @@ var indexSectionsWithContent =
   4: "_cinrtv",
   5: "c",
   6: "c",
-  7: "cs"
+  7: "ns"
 };
 
 var indexSectionNames =

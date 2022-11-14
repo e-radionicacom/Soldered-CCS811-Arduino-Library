@@ -69,8 +69,9 @@ var NAVTREEINDEX0 =
 "hierarchy.html":[2,2],
 "index.html":[],
 "index.html":[0],
+"index.html#autotoc_md8":[0,0],
 "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html":[1],
-"md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md8":[1,0],
-"md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md9":[1,1],
+"md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md10":[1,1],
+"md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md9":[1,0],
 "pages.html":[]
 };
