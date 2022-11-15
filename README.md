@@ -1,4 +1,4 @@
-# NAZIV PROIZVODA Arduino library
+# Air quality sensor CCS811 breakout Arduino library
 
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
 
@@ -6,16 +6,16 @@
 | :---------------------------------------------------------------------------------------------: |
 | [Air quality sensor CCS811 breakout](https://www.solde.red/333009)                                                            |
 
-OPIS PROIZVODA [The CCS811 sensor is designed to measure various volatile particles in the air (TVOC - Total Volatile Organic Compounds), which include eCO2 (CO2 equivalent) and MOX (metal oxides). VOCs are generally defined as air pollutants, and can come from a variety of sources, starting with ordinary breathing, smoking, coloring, welding, and generally all processes that release particles into the surrounding air.
+The CCS811 sensor is designed to measure various volatile particles in the air (TVOC - Total Volatile Organic Compounds), which include eCO2 (CO2 equivalent) and MOX (metal oxides). VOCs are generally defined as air pollutants, and can come from a variety of sources, starting with ordinary breathing, smoking, coloring, welding, and generally all processes that release particles into the surrounding air.
 
 This sensor is often used to measure indoor air quality, which can work very well and indicate current air pollution, for example, in an office. It communicates via I2C, making it easy to connect, especially through easyC. Sensor itself should be powered for at least 20 minutes to start making accurate readings.
 
-• Voltage: 1.8V - 3.3V
-• TVOC range: 0 - 32768 ppb
-• Range of eCO2: 400 - 29206 ppm
-• Communication: I2C
-• Dimensions: 22 x 22mm
-• with two easyC connectors](https://www.soldered.com/en/easyC). 
+- Voltage: 1.8V - 3.3V
+- TVOC range: 0 - 32768 ppb
+- Range of eCO2: 400 - 29206 ppm
+- Communication: I2C
+- Dimensions: 22 x 22mm
+- with two easyC connectors(https://www.soldered.com/en/easyC). 
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
@@ -23,7 +23,7 @@ This sensor is often used to measure indoor air quality, which can work very wel
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in *Air quality sensor CCS811 breakout* hardware repository.
+You can find hardware design for this board in [*Air quality sensor CCS811 breakout*](https://github.com/SolderedElectronics/Air-quality-sensor-CCS811-breakout-hardware-design) hardware repository.
 
 ### Documentation
 
