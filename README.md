@@ -15,7 +15,7 @@ This sensor is often used to measure indoor air quality, which can work very wel
 - Range of eCO2: 400 - 29206 ppm
 - Communication: I2C
 - Dimensions: 22 x 22mm
-- with two easyC connectors(https://www.soldered.com/en/easyC). 
+- with two easyC connectors (https://www.soldered.com/en/easyC). 
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
