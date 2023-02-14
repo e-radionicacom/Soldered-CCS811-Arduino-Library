@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "Soldered-CCS811-Arduino-Library", "index.html", [
-    [ "Air quality sensor CCS811 breakout Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "Air quality sensor CCS811 breakout Arduino library", "index.html", "index" ],
     [ "SparkFun License Information", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html", [
       [ "Hardware", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md9", null ],
       [ "Code", "md_src_libs__spark_fun__c_c_s811__arduino__library__l_i_c_e_n_s_e.html#autotoc_md10", null ]
