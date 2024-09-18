@@ -6,7 +6,7 @@
 
 | ![Air quality sensor CCS811 breakout](https://github.com/SolderedElectronics/Air-quality-sensor-CCS811-breakout-hardware-design/blob/main/OUTPUTS/V1.1.1/333009.jpg) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                  [Air quality sensor CCS811 breakout](https://www.solde.red/333009)                                                  |
+|                                                  [Air quality sensor CCS811 breakout](https://solde.red/333009)                                                  |
 
 The CCS811 sensor is designed to measure various volatile particles in the air (TVOC - Total Volatile Organic Compounds), which include eCO2 (CO2 equivalent) and MOX (metal oxides). VOCs are generally defined as air pollutants, and can come from a variety of sources, starting with ordinary breathing, smoking, coloring, welding, and generally all processes that release particles into the surrounding air.
 
