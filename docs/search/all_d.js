@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['temperature_0',['temperature',['../class_c_c_s811.html#aa9bd0718490c2605585086c4949b2cd2',1,'CCS811']]],
-  ['tvoc_1',['tVOC',['../class_c_c_s811.html#add02a0c0dc6d762ce236d5198ad0f506',1,'CCS811']]]
+  ['open_20source_20license_0',['Open-source license',['../index.html#autotoc_md7',1,'']]],
+  ['original_20source_1',['Original source',['../index.html#autotoc_md6',1,'']]]
 ];
