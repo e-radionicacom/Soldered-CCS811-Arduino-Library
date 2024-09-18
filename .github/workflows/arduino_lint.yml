@@ -12,4 +12,5 @@ jobs:
         with:
           compliance: specification
           project-type: library
+          library-maganer: update
           recursive: true
